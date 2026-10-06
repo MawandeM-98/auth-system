@@ -1,0 +1,13 @@
+{
+  "name": "auth-system",
+  "version": "1.0.0",
+  "description": "Production-style auth system (Express + JWT + bcrypt + Passport)",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "keywords": ["auth", "express", "jwt", "passport"],
+  "license": "MIT"
+}
